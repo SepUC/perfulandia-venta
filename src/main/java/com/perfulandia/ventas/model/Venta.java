@@ -13,6 +13,8 @@ import java.util.Date;
 @Table(name= "ventas")
 @NoArgsConstructor
 @AllArgsConstructor
+@Data
+
 
 public class Venta {
 
